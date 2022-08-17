@@ -1,10 +1,10 @@
 {
   "extName": {
-    "message": "Silent FB",
-    "description": "extension name"
+    "message": "Law 24",
+    "description": "Law 24"
   },
   "extIntro": {
-    "message": "Make Facebook grayscale to avoid overstimulation",
-    "description": "extension into"    
+    "message": "Hide people's name by law 24",
+    "description": "Hide people's name by law 24"    
   }
 }
